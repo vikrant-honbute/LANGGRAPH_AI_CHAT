@@ -61,9 +61,7 @@ python main.py
 - Handles conversational state across interactions
 - Generates AI responses through configured LLM provider(s)
 
-## Notes
 
-This README is intentionally structure-safe and does not assume file/folder names that are not confirmed.
 
 ## Author
 
